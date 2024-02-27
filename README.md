@@ -26,7 +26,7 @@ This project utilizes the Ultralytics YOLO (You Only Look Once) model for detect
 3. **View Results:** The detected logo will be displayed in the application.
 
 ## Model Training
-- Train the YOLO model using the `model.train` method.
+- Train the YOLO model using the `model.py` method.
 - The training dataset and epochs can be customized.
 - Save the trained model for future predictions.
 
